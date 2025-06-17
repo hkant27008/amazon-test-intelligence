@@ -192,3 +192,28 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Test outputs
+reports/screenshots/*
+reports/logs/*
+!reports/screenshots/.gitkeep
+!reports/logs/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
