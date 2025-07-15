@@ -1,6 +1,3 @@
-# amazon-test-intelligence
-Automated testing framework for e-commerce sites with business impact metrics 
-
 ### 🚀 Amazon Test Intelligence Framework
 A professional test automation framework for e-commerce platforms, demonstrating industry best practices through real-world testing of Amazon.com.
 # 🎯 Project Overview
